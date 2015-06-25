@@ -7,7 +7,7 @@ A modified version of TA's Lexicon_WFST
  - ./configure && make && sudo make install
  
 ## How to use
- > ./runLine.sh input/example 10
+ > ./runLine.sh input/example 10<br/>
  and the output will be output/output.txt
 
 ## Remarks
