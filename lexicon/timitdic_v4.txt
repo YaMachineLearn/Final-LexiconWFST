@@ -2567,7 +2567,7 @@ her  /hh er1/
 herd  /hh er1 d/
 herdin'  /hh er1 d en/
 here  /hh ih1 r/
-; here's  /hh ih1 r z/
+here's  /hh ih1 r z/
 heritage  /hh eh1 r ax t ih jh/
 hero  /hh ih1 r ow2/
 heroes  /hh ih1 r ow z/
@@ -2653,7 +2653,7 @@ housewives  /hh aw1 s w ay2 v z/
 housework  /hh aw1 s w er2 k/
 housing  /hh aw1 z ix ng/
 how  /hh aw1/
-; how's  /hh aw1 z/
+how's  /hh aw1 z/
 however  /hh aw eh1 v axr/
 hub  /hh ah1 b/
 huge  /hh y uw1 jh/

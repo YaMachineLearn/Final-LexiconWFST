@@ -16,8 +16,8 @@ LEX=lexicon
 input=$1
 output=output/output.txt
 
-timitdic=$LEX/timitdic_v5.txt
-rule=$LEX/rule_v2.out
+timitdic=$LEX/timitdic_v6.txt
+rule=$LEX/rule_v3.out
 
 tmpdir=$(mktemp -d)
 nbest=1

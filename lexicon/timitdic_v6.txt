@@ -178,14 +178,14 @@ algae  /ae1 l jh iy2/
 algebraic  /ae2 l jh ix b r ey1 ih k/
 alibi  /ae1 l ix b ay2/
 alice  /ae1 l ih s/
-; alice's  /ae1 l ih s ix z/
+alice's  /ae1 l ih s ix z/
 alien  /ey1 l iy ax n/
 aligned  /ax l ay1 n d/
 aligning  /ax l ay1 n ix ng/
 alimony  /ae1 l ax m ow2 n iy/
 alkaline  /ae1 l k ax l ay2 n/
 all  /ao1 l/
-; all-purpose  /ao1 l p er1 p ax s/
+all-purpose  /ao1 l p er1 p ax s/
 allergies  /ae1 l axr jh iy z/
 alleviate  /ax l iy1 v iy ey2 t/
 alligators  /ae1 l ax g ey2 t axr z/
@@ -214,7 +214,7 @@ amateur  /ae1 m ax ch er2/
 amaze  /ax m ey1 z/
 amazed  /ax m ey1 z d/
 ambassador  /ae m b ae1 s ax d axr/
-; ambassador's  /ae m b ae1 s ax d axr z/
+ambassador's  /ae m b ae1 s ax d axr z/
 amber  /ae1 m b axr/
 ambidextrous  /ae2 m b ih d eh1 k s t r ix s/
 ambiguity  /ae2 m b ax g y uw1 ix t iy/
@@ -240,7 +240,7 @@ anatomical  /ae2 n ix t aa1 m ih k el/
 anchor  /ae1 ng k axr/
 ancient  /ey1 n sh ix n t/
 and  /ae n d/
-; andrei's  /ae1 n d r ey z/
+andrei's  /ae1 n d r ey z/
 anecdotal  /ae2 n eh k d ow1 t el/
 anger  /ae1 ng g axr/
 angora  /ae ng g ao1 r ax/
@@ -275,7 +275,7 @@ any  /eh1 n iy/
 anybody  /eh1 n iy b aa2 d iy/
 anyhow  /eh1 n iy hh aw2/
 anyone  /eh1 n iy w ah2 n/
-; anyone's  /eh1 n iy w ah2 n z/
+anyone's  /eh1 n iy w ah2 n z/
 anything  /eh1 n iy th ih2 ng/
 anyway  /eh1 n iy w ey2/
 apartments  /ax p aa1 r t m ax n t s/
@@ -409,7 +409,7 @@ atypical  /ey2 t ih1 p ih k el/
 auburn  /ao1 b er n/
 audience  /ao1 d iy ax n s/
 audio  /ao1 d iy ow2/
-; audio-visual  /ao1 d iy ow2 v ih1 zh uw el/
+audio-visual  /ao1 d iy ow2 v ih1 zh uw el/
 audition  /ao d ih1 sh ix n/
 auditors  /ao1 d ix t axr z/
 auditory  /ao1 d ix t ao2 r iy/
@@ -418,7 +418,7 @@ augmented  /ao g m eh1 n t ix d/
 aunt  /ae1 n t/
 austere  /ao s t ih1 r/
 author  /ao1 th axr/
-; author's  /ao1 th axr z/
+author's  /ao1 th axr z/
 authorities  /ah th ao1 r ix t iy z/
 authority  /ah th ao1 r ix t iy/
 authorization  /ao2 th axr ix z ey1 sh ix n/
@@ -449,7 +449,7 @@ awkward  /ao1 k w axr d/
 awoke  /ax w ow1 k/
 axis  /ae1 k s ix s/
 babbled  /b ae1 b el d/
-; baboon's  /b ae b uw1 n z/
+baboon's  /b ae b uw1 n z/
 back  /b ae1 k/
 backed  /b ae1 k t/
 backgrounds  /b ae1 k g r aw2 n d z/
@@ -479,7 +479,7 @@ bank  /b ae1 ng k/
 bankers  /b ae1 ng k er z/
 banks  /b ae1 ng k s/
 barb  /b aa1 r b/
-; barb's  /b aa1 r b z/
+barb's  /b aa1 r b z/
 barbaric  /b aa r b ae1 r ih k/
 barbecue  /b aa1 r b ih k y uw2/
 barbed  /b aa1 r b d/
@@ -496,7 +496,7 @@ barricades  /b ae2 r ax k ey1 d z/
 barriers  /b ae1 r iy axr z/
 base  /b ey1 s/
 baseball  /b ey1 s b ao2 l/
-; baseball's  /b ey1 s b ao2 l z/
+baseball's  /b ey1 s b ao2 l z/
 based  /b ey1 s t/
 basic  /b ey1 s ih k/
 basis  /b ey1 s ix s/
@@ -507,7 +507,7 @@ bathing  /b ey1 dh ix ng/
 baths  /b ae1 th s/
 bathtubs  /b ae1 th t ah2 b z/
 battery  /b ae1 t axr iy/
-; battery-powered  /b ae1 t axr iy p aw2 axr d/
+battery-powered  /b ae1 t axr iy p aw2 axr d/
 batting  /b ae1 t ix ng/
 bay  /b ey1/
 ; bayed  /b ey1 d/
@@ -640,7 +640,7 @@ bluntly  /b l ah1 n t l iy/
 board  /b ao1 r d/
 boardinghouses  /b ao1 r d ix ng hh aw2 z ix z/
 boat  /b ow1 t/
-; boat's  /b ow1 t s/
+boat's  /b ow1 t s/
 bob  /b aa1 b/
 bobby  /b aa1 b iy/
 bobcat  /b aa1 b k ae2 t/
@@ -686,7 +686,7 @@ bourgeois  /b uh2 r zh w aa1/
 bowl  /b ow1 l/
 box  /b aa1 k s/
 boy  /b oy1/
-; boy's  /b oy1 z/
+boy's  /b oy1 z/
 boys  /b oy1 z/
 bracelet  /b r ey1 s l ix t/
 braiding  /b r ey1 d ix ng/
@@ -710,7 +710,7 @@ brick  /b r ih1 k/
 bricks  /b r ih1 k s/
 bridal  /b r ay1 d el/
 bride  /b r ay1 d/
-; bride's  /b r ay1 d z/
+bride's  /b r ay1 d z/
 bridge  /b r ih1 jh/
 bridges  /b r ih1 jh ix z/
 brief  /b r iy1 f/
@@ -729,7 +729,7 @@ broke  /b r ow1 k/
 broken  /b r ow1 k ix n/
 bronc  /b r aa1 ng k/
 brother  /b r ah1 dh axr/
-; brother's  /b r ah1 dh axr z/
+brother's  /b r ah1 dh axr z/
 brought  /b r ao1 t/
 brown  /b r aw1 n/
 brows  /b r aw1 z/
@@ -752,7 +752,7 @@ buildings  /b ih1 l d ix ng z/
 built  /b ih1 l t/
 bulged  /b ah1 l jh d/
 bull  /b uh1 l/
-; bull-like  /b uh1 l l ay2 k/
+bull-like  /b uh1 l l ay2 k/
 bullet  /b uh1 l ix t/
 bullets  /b uh1 l ix t s/
 ; bum  /b ah1 m/
@@ -822,7 +822,7 @@ canoes  /k ax n uw1 z/
 cantaloupe  /k ae1 n t ax l ow2 p/
 canteen  /k ae n t iy1 n/
 canter  /k ae1 n t axr/
-; cap'n  /k ae1 p en/
+cap'n  /k ae1 p en/
 capable  /k ey1 p ax b el/
 capillary  /k ae1 p ax l eh2 r iy/
 capital  /k ae1 p ix t el/
@@ -832,7 +832,7 @@ capsule  /k ae1 p s el/
 captain  /k ae1 p t ix n/
 captured  /k ae1 p ch axr d/
 car  /k aa1 r/
-; car's  /k aa1 r z/
+car's  /k aa1 r z/
 caraway  /k ae1 r ax w ey2/
 cardboard  /k aa1 r d b ao2 r d/
 cards  /k aa1 r d z/
@@ -866,7 +866,7 @@ castorbeans  /k ae1 s axr b iy1 n z/
 casual  /k ae1 zh uw el/
 casually  /k ae1 zh uw ax l iy/
 cat  /k ae1 t/
-; cat's  /k ae1 t s/
+cat's  /k ae1 t s/
 catastrophic  /k ae2 t ix s t r aa1 f ih k/
 catch  /k ae1 ch/
 categories  /k ae1 t ax g ao2 r iy z/
@@ -881,7 +881,7 @@ causeway  /k ao1 z w ey2/
 caution  /k ao1 sh ix n/
 cavity  /k ae1 v ax t iy/
 ; cease  /s iy1 s/
-; cease-fire  /s iy1 s f ay1 axr/
+cease-fire  /s iy1 s f ay1 axr/
 ceiling  /s iy1 l ix ng/
 celebrate  /s eh1 l ix b r ey2 t/
 celebrates  /s eh1 l ix b r ey2 t s/
@@ -922,7 +922,7 @@ characteristics  /k ae2 r ax k t axr ih1 s t ih k s/
 characters  /k ae1 r ax k t axr z/
 charge  /ch aa1 r jh/
 charged  /ch aa1 r jh d/
-; charlie's  /ch aa1 r l iy z/
+charlie's  /ch aa1 r l iy z/
 charm  /ch aa1 r m/
 charmer  /ch aa1 r m axr/
 chart  /ch aa1 r t/
@@ -931,7 +931,7 @@ chasing  /ch ey1 s ix ng/
 chastity  /ch ae1 s t ix t iy/
 chattering  /ch ae1 t axr ix ng/
 chauffeur  /sh ow1 f axr/
-; chauffeur-driven  /sh ow1 f axr d r ih2 v en/
+chauffeur-driven  /sh ow1 f axr d r ih2 v en/
 ; chaw  /ch ao1/
 cheap  /ch iy1 p/
 cheating  /ch iy1 t ix ng/
@@ -1006,7 +1006,7 @@ clashed  /k l ae1 sh t/
 clasp  /k l ae1 s p/
 clasped  /k l ae1 s p t/
 class  /k l ae1 s/
-; class-biased  /k l ae1 s b ay2 ix s t/
+class-biased  /k l ae1 s b ay2 ix s t/
 classical  /k l ae1 s ih k el/
 classrooms  /k l ae1 s r uw2 m z/
 clatter  /k l ae1 t axr/
@@ -1022,11 +1022,11 @@ cleared  /k l ih1 r d/
 clearer  /k l ih1 r axr/
 clearing  /k l ih1 r ix ng/
 clearly  /k l ih1 r l iy/
-; clerk's  /k l er1 k s/
+clerk's  /k l er1 k s/
 clerks  /k l er1 k s/
 clever  /k l eh1 v axr/
 cliff  /k l ih1 f/
-; cliff's  /k l ih1 f s/
+cliff's  /k l ih1 f s/
 climates  /k l ay1 m ax t s/
 climax  /k l ay1 m ae2 k s/
 climbed  /k l ay1 m d/
@@ -1054,13 +1054,13 @@ clumsy  /k l ah1 m z iy/
 coach  /k ow1 ch/
 coagulating  /k ow ae1 g y uh l ey2 t ix ng/
 coal  /k ow1 l/
-; coal-black  /k ow1 l b l ae2 k/
+coal-black  /k ow1 l b l ae2 k/
 coalition  /k ow2 ax l ih1 sh ix n/
 coals  /k ow1 l z/
 coast  /k ow1 s t/
 coat  /k ow1 t/
 coauthors  /k ow ao1 th axr z/
-; cobbler's  /k aa1 b l axr z/
+cobbler's  /k aa1 b l axr z/
 coconut  /k ow1 k ax n ah2 t/
 coconuts  /k ow1 k ax n ah2 t s/
 code  /k ow1 d/
@@ -1075,7 +1075,7 @@ coincided  /k ow2 ix n s ay1 d ix d/
 coins  /k oy1 n z/
 coke  /k ow1 k/
 cold  /k ow1 l d/
-; cold-blooded  /k ow1 l d b l ah1 d ix d/
+cold-blooded  /k ow1 l d b l ah1 d ix d/
 coleslaw  /k ow1 l s l ao2/
 collared  /k aa1 l axr d/
 colleagues  /k aa1 l iy g z/
@@ -1104,7 +1104,7 @@ community  /k ax m y uw1 n ix t iy/
 compact  /k aa1 m p ae1 k t/
 companions  /k ax m p ae1 n y ix n z/
 company  /k ah1 m p ax n iy/
-; company's  /k ah1 m p ax n iy z/
+company's  /k ah1 m p ax n iy z/
 comparable  /k aa1 m p axr ax b el/
 compare  /k ax m p ae1 r/
 comparison  /k ax m p ae1 r ih s ix n/
@@ -1220,7 +1220,7 @@ convince  /k ax n v ih1 n s/
 convincing  /k ax n v ih1 n s ix ng/
 cook  /k uh1 k/
 cooked  /k uh1 k t/
-; cooked-over  /k uh1 k t ow2 v axr/
+cooked-over  /k uh1 k t ow2 v axr/
 cookies  /k uh1 k iy z/
 cooking  /k uh1 k ix ng/
 cool  /k uw1 l/
@@ -1274,7 +1274,7 @@ covers  /k ah1 v axr z/
 cow  /k aw1/
 coward  /k aw1 axr d/
 cowboy  /k aw1 b oy2/
-; cowboy's  /k aw1 b oy2 z/
+cowboy's  /k aw1 b oy2 z/
 cowling  /k aw1 l ix ng/
 cows  /k aw1 z/
 ; coy  /k oy1/
@@ -1307,7 +1307,7 @@ crimson  /k r ih1 m z ix n/
 crisis  /k r ay1 s ix s/
 crisp  /k r ih1 s p/
 ; criss-  /k r ih1 s/
-; criss-cross  /k r ih1 s k r ao2 s/
+criss-cross  /k r ih1 s k r ao2 s/
 crisscrossed  /k r ih1 s k r ao2 s t/
 critical  /k r ih1 t ih k el/
 crooked  /k r uh1 k ix d/
@@ -1368,7 +1368,7 @@ danger  /d ey1 n jh axr/
 dangerous  /d ey1 n jh axr ix s/
 dangers  /d ey1 n jh axr z/
 danny  /d ae1 n iy/
-; daphne's  /d ae1 f n iy z/
+daphne's  /d ae1 f n iy z/
 dark  /d aa1 r k/
 darkness  /d aa1 r k n ix s/
 darned  /d aa1 r n d/
@@ -1481,7 +1481,7 @@ detail  /d iy1 t ey1 l/
 detailed  /d iy t ey1 l d/
 details  /d iy t ey1 l z/
 detectable  /d ih t eh1 k ax b el/
-; detective's  /d ih t eh1 k t ih v z/
+detective's  /d ih t eh1 k t ih v z/
 determination  /d ih t er2 m ax n ey1 sh ix n/
 determine  /d ih t er1 m ax n/
 determined  /d ih t er1 m ax n d/
@@ -1605,9 +1605,9 @@ doin'  /d uw1 ix n/
 doing  /d uw1 ix ng/
 doll  /d aa1 l/
 dollar  /d aa1 l axr/
-; dollar-and-cents  /d aa1 l axr ae n d s eh1 n t s/
+dollar-and-cents  /d aa1 l axr ae n d s eh1 n t s/
 dollars  /d aa1 l axr z/
-; dollars-and-cents  /d aa1 l axr z ae n d s eh1 n t s/
+dollars-and-cents  /d aa1 l axr z ae n d s eh1 n t s/
 dolphins  /d aa1 l f ax n z/
 dome  /d ow1 m/
 domestic  /d ax m eh1 s t ih k/
@@ -1623,7 +1623,7 @@ doorways  /d ao1 r w ey2 z/
 dormitories  /d ao1 r m ax t ao2 r iy z/
 doses  /d ow1 s ix z/
 double  /d ah1 b el/
-; double-glaze  /d ah1 b el g l ey1 z/
+double-glaze  /d ah1 b el g l ey1 z/
 doubt  /d aw1 t/
 dough  /d ow1/
 doused  /d aw1 s t/
@@ -1664,7 +1664,7 @@ drops  /d r aa1 p s/
 drought  /d r aw1 t/
 drove  /d r ow1 v/
 drug  /d r ah1 g/
-; drug's  /d r ah1 g z/
+drug's  /d r ah1 g z/
 drugs  /d r ah1 g z/
 drugstore  /d r ah1 g s t ao2 r/
 drunk  /d r ah1 ng k/
@@ -1703,7 +1703,7 @@ earn  /er1 n/
 earnestly  /er1 n ix s t l iy/
 ears  /ih1 r z/
 earth  /er1 th/
-; earth's  /er1 th s/
+earth's  /er1 th s/
 earthenware  /er1 th ax n w ae2 r/
 earthly  /er1 th l iy/
 earthquake  /er1 th k w ey2 k/
@@ -1735,7 +1735,7 @@ efficiency  /ih f ih1 sh ix n s iy/
 efficient  /ih f ih1 sh ix n t/
 effort  /eh1 f axr t/
 egg  /eh1 g/
-; egg-sized  /eh1 g s ay2 z d/
+egg-sized  /eh1 g s ay2 z d/
 eggs  /eh1 g z/
 ego  /iy1 g ow2/
 egotist  /iy1 g ow t ih2 s t/
@@ -1755,7 +1755,7 @@ electrostatic  /ax l eh2 k t r ax s t ae1 t ix k/
 elegant  /eh1 l ix g ix n t/
 element  /eh1 l ax m ax n t/
 elementary  /eh2 l ax m eh1 n t axr iy/
-; elementary-school  /eh2 l ax m eh1 n t axr iy s k uw2 l/
+elementary-school  /eh2 l ax m eh1 n t axr iy s k uw2 l/
 elements  /eh1 l ax m ax n t s/
 elevator  /eh1 l ax v ey2 t axr/
 eleven  /ax l eh1 v ax n/
@@ -1804,7 +1804,7 @@ energy  /eh1 n er jh iy/
 engine  /eh1 n jh ix n/
 engineer  /eh2 n jh ix n ih1 r/
 engineering  /eh2 n jh ix n ih1 r ix ng/
-; engineers'  /eh2 n jh ix n ih1 r z/
+engineers'  /eh2 n jh ix n ih1 r z/
 engulfed  /eh n g ah1 l f t/
 enigma  /ih n ih1 g m ax/
 enjoy  /eh n jh oy1/
@@ -1870,7 +1870,7 @@ events  /ax v eh1 n t s/
 eventualities  /ih v eh2 n ch uw ae1 l ix t iy z/
 eventually  /ih v eh1 n ch uw ax l iy/
 ever  /eh1 v axr/
-; ever-increasing  /eh1 v axr ih n k r iy1 s ix ng/
+ever-increasing  /eh1 v axr ih n k r iy1 s ix ng/
 every  /eh1 v r iy/
 everybody  /eh1 v r iy b ah2 d iy/
 everyone  /eh1 v r iy w ah2 n/
@@ -1925,7 +1925,7 @@ expensive  /eh k s p eh1 n s ih v/
 experience  /ih k s p ih1 r iy ax n s/
 experienced  /ih k s p ih1 r iy ax n s t/
 experiment  /eh k s p eh1 r ax m ax n t/
-; experiment's  /eh k s p eh1 r ax m ax n t s/
+experiment's  /eh k s p eh1 r ax m ax n t s/
 experimental  /eh k s p eh2 r ax m eh1 n t ax l/
 experiments  /eh k s p eh1 r ax m ax n t s/
 expertise  /eh2 k s p er2 t iy1 z/
@@ -1993,7 +1993,7 @@ fancy  /f ae1 n s iy/
 fangs  /f ae1 ng z/
 far  /f aa1 r/
 farm  /f aa1 r m/
-; farmer's  /f aa1 r m axr z/
+farmer's  /f aa1 r m axr z/
 farmers  /f aa1 r m axr z/
 farmhouses  /f aa1 r m hh aw2 z ix z/
 farmland  /f aa1 r m l ae2 n d/
@@ -2004,12 +2004,12 @@ fascinating  /f ae1 s en ey2 t ix ng/
 fashion  /f ae1 sh ix n/
 fashioned  /f ae1 sh ix n d/
 fast  /f ae1 s t/
-; fast-closing  /f ae1 s t ao l ow1 z ix ng/
-; fast-opening  /f ae1 s t ow1 p ax n ix ng/
+fast-closing  /f ae1 s t ao l ow1 z ix ng/
+fast-opening  /f ae1 s t ow1 p ax n ix ng/
 faster  /f ae1 s t axr/
 fat  /f ae1 t/
 father  /f aa1 dh axr/
-; father's  /f aa1 dh axr z/
+father's  /f aa1 dh axr z/
 fathers  /f aa1 dh axr z/
 fatigue  /f ax t iy1 g/
 fatigued  /f ax t iy1 g d/
@@ -2083,7 +2083,7 @@ find  /f ay1 n d/
 finding  /f ay1 n d ix ng/
 finds  /f ay1 n d z/
 fine  /f ay1 n/
-; fine-feathered  /f ay1 n f eh1 dh axr d/
+fine-feathered  /f ay1 n f eh1 dh axr d/
 finger  /f ih1 ng g axr/
 fingerprints  /f ih1 ng g axr p r ih2 n t s/
 fingers  /f ih1 ng g axr z/
@@ -2108,7 +2108,7 @@ fists  /f ih1 s t s/
 fit  /f ih1 t/
 fitfully  /f ih1 t f el iy/
 five  /f ay1 v/
-; five-hundred  /f ay1 v hh ah1 n d r ax d/
+five-hundred  /f ay1 v hh ah1 n d r ax d/
 fix  /f ih1 k s/
 fixed  /f ih1 k s t/
 fjords  /f iy ao1 r d z/
@@ -2117,7 +2117,7 @@ flame  /f l ey1 m/
 flash  /f l ae1 sh/
 flashing  /f l ae1 sh ix ng/
 flat  /f l ae1 t/
-; flat-bottomed  /f l ae1 t b aa1 t em d/
+flat-bottomed  /f l ae1 t b aa1 t em d/
 flawless  /f l ao1 l ax s/
 flaxseed  /f l ae1 k s iy2 d/
 fled  /f l eh1 d/
@@ -2197,7 +2197,7 @@ formulation  /f ao2 r m y uh l ey1 sh ix n/
 forth  /f ao1 r th/
 fortune  /f ao1 r ch ix n/
 forty  /f ao1 r t iy/
-; forty-seven  /f ao1 r t iy s eh1 v ax n/
+forty-seven  /f ao1 r t iy s eh1 v ax n/
 forward  /f ao1 r w axr d/
 fosters  /f ao1 s t axr z/
 fought  /f ao1 t/
@@ -2289,7 +2289,7 @@ gear  /g ih1 r/
 geeing  /jh iy1 ix ng/
 geese  /g iy1 s/
 general  /jh eh1 n axr el/
-; general's  /jh eh1 n axr el z/
+general's  /jh eh1 n axr el z/
 generalizations  /jh eh2 n axr el ax z ey1 sh ix n z/
 generalize  /jh eh1 n axr ax l ay2 z/
 generally  /jh eh1 n axr ax l iy/
@@ -2337,7 +2337,7 @@ gleam  /g l iy1 m/
 gleamed  /g l iy1 m d/
 gleaming  /g l iy1 m ix ng/
 ; glee  /g l iy1/
-; glee-club  /g l iy1 k l ah2 b/
+glee-club  /g l iy1 k l ah2 b/
 glimpse  /g l ih1 m p s/
 glistened  /g l ih1 s en d/
 glistening  /g l ih1 s en ix ng/
@@ -2352,7 +2352,7 @@ glue  /g l uw1/
 glued  /g l uw1 d/
 gluttons  /g l ah1 t en z/
 go  /g ow1/
-; go-cart  /g ow1 k aa2 r t/
+go-cart  /g ow1 k aa2 r t/
 goal  /g ow1 l/
 goals  /g ow1 l z/
 goat  /g ow1 t/
@@ -2364,8 +2364,8 @@ golfing  /g aa1 l f ix ng/
 gone  /g ao1 n/
 gonna  /g ah1 n ax/
 good  /g uh1 d/
-; good-news  /g uh1 d n uw1 z/
-; good-size  /g uh1 d s ay z/
+good-news  /g uh1 d n uw1 z/
+good-size  /g uh1 d s ay z/
 goodness  /g uh1 d n ix s/
 goodnight  /g uh2 d n ay1 t/
 goose  /g uw1 s/
@@ -2382,7 +2382,7 @@ gowns  /g aw1 n z/
 grab  /g r ae1 b/
 gracefully  /g r ey1 s f ah l iy/
 grade  /g r ey1 d/
-; grade-equivalent  /g r ey1 d ih k w ih1 v el ax n t/
+grade-equivalent  /g r ey1 d ih k w ih1 v el ax n t/
 grades  /g r ey1 d z/
 gradually  /g r ae1 jh uw ax l iy/
 graduation  /g r ae2 jh uw ey1 sh ix n/
@@ -2463,14 +2463,14 @@ hails  /hh ey1 l z/
 hair  /hh ae1 r/
 haired  /hh ae1 r d/
 half  /hh ae1 f/
-; half-city  /hh ae1 f s ih1 t iy/
-; half-inch  /hh ae1 f ih1 n ch/
-; half-man  /hh ae1 f m ae1 n/
+half-city  /hh ae1 f s ih1 t iy/
+half-inch  /hh ae1 f ih1 n ch/
+half-man  /hh ae1 f m ae1 n/
 halloween  /hh ae2 l ow iy1 n/
 hallway  /hh ao1 l w ey2/
 halves  /hh ae1 v z/
 ham  /hh ae1 m/
-; ham-radio  /hh ae1 m r ey1 d iy ow/
+ham-radio  /hh ae1 m r ey1 d iy ow/
 hand  /hh ae1 n d/
 handbag  /hh ae1 n d b ae2 g/
 handed  /hh ae1 n d ix d/
@@ -2481,7 +2481,7 @@ hands  /hh ae1 n d z/
 handsome  /hh ae1 n s ax m/
 handy  /hh ae1 n d iy/
 handyman  /hh ae1 n d iy m ae2 n/
-; handyman-carpenter  /hh ae1 n d iy m ae2 n k aa1 r p ax n t axr/
+handyman-carpenter  /hh ae1 n d iy m ae2 n k aa1 r p ax n t axr/
 hanging  /hh ae1 ng ix ng/
 hangovers  /hh ae1 ng ow2 v axr z/
 happen  /hh ae1 p ax n/
@@ -2520,7 +2520,7 @@ he'd  /hh iy1 d/
 he'll  /hh ih1 l/
 he's  /hh iy1 z/
 head  /hh eh1 d/
-; head-in-the-clouds  /hh eh1 d ih n dh ax k l aw1 d z/
+head-in-the-clouds  /hh eh1 d ih n dh ax k l aw1 d z/
 headache  /hh eh1 d ey2 k/
 headaches  /hh eh1 d ey2 k s/
 heading  /hh eh1 d ix ng/
@@ -2537,7 +2537,7 @@ heard  /hh er1 d/
 heart  /hh aa1 r t/
 heartily  /hh aa1 r t ax l iy/
 heat  /hh iy1 t/
-; heat's  /hh iy1 t s/
+heat's  /hh iy1 t s/
 heater  /hh iy1 t axr/
 heating  /hh iy1 t ix ng/
 heave  /hh iy1 v/
@@ -2564,7 +2564,7 @@ henceforth  /hh eh1 n s f ao1 r th/
 henry  /hh eh1 n r iy/
 hepatitis  /hh eh2 p ax t ay1 t ix s/
 her  /hh er1/
-; herb's  /hh er1 b z/
+herb's  /hh er1 b z/
 herd  /hh er1 d/
 herdin'  /hh er1 d en/
 here  /hh ih1 r/
@@ -2615,7 +2615,7 @@ holes  /hh ow1 l z/
 holiday  /hh aa1 l ix d ey2/
 holidays  /hh aa1 l ix d ey2 z/
 home  /hh ow1 m/
-; home-made  /hh ow1 m ey2 d/
+home-made  /hh ow1 m ey2 d/
 homes  /hh ow1 m z/
 homogeneous  /hh ow2 m ax jh iy1 n iy ax s/
 honest  /aa1 n ix s t/
@@ -2677,7 +2677,7 @@ hurry  /hh er1 iy/
 hurt  /hh er1 t/
 hurts  /hh er1 t s/
 husband  /hh ah1 z b ax n d/
-; husband's  /hh ah1 z b ax n d z/
+husband's  /hh ah1 z b ax n d z/
 husbandry  /hh ah1 z b ax n d r iy/
 husky  /hh ah1 s k iy/
 hut  /hh ah1 t/
@@ -2818,7 +2818,7 @@ inhuman  /ih2 n hh y uw1 m ax n/
 initiative  /ih n ih1 sh ix t ih v/
 injected  /ih n jh eh1 k t ix d/
 injection  /ih n jh eh1 k sh ix n/
-; injection-molded  /ih n jh eh1 k sh ix n m ow1 l d ix d/
+injection-molded  /ih n jh eh1 k sh ix n m ow1 l d ix d/
 injuries  /ih1 n jh axr iy z/
 innocence  /ih1 n ix s ix n s/
 inquired  /ih n k w ay1 axr d/
@@ -2887,7 +2887,7 @@ irate  /ay r ey1 t/
 iris  /ay1 r ix s/
 irish  /ay1 r ih sh/
 iron  /ay1 axr n/
-; iron-poor  /ay1 axr n p uh2 r/
+iron-poor  /ay1 axr n p uh2 r/
 ironic  /ay r aa1 n ih k/
 ironically  /ay r aa1 n ih k l iy/
 ironing  /ay1 axr n ix ng/
@@ -2896,7 +2896,7 @@ irradiation  /ih r ey2 d iy ey1 sh ix n/
 irremediable  /ih2 r ih m iy1 d iy ax b el/
 irresponsible  /ih2 r ih s p aa1 n s ax b el/
 irritated  /ih1 r ax t ey2 t ix d/
-; irving's  /er1 v ix ng z/
+irving's  /er1 v ix ng z/
 is  /ih1 z/
 isn't  /ih1 z en t/
 isotopes  /ay1 s ax t ow2 p s/
@@ -2929,20 +2929,20 @@ jealousies  /jh eh1 l ax s iy z/
 jealousy  /jh eh1 l ax s iy/
 jeep  /jh iy1 p/
 jeff  /jh eh1 f/
-; jeff's  /jh eh1 f s/
-; jennifer's  /jh eh1 n ix f axr z/
+jeff's  /jh eh1 f s/
+jennifer's  /jh eh1 n ix f axr z/
 jeopardize  /jh eh1 p axr d ay z/
 jerk  /jh er1 k/
 jerky  /jh er1 k iy/
 jet  /jh eh1 t/
 jewel  /jh uw1 el/
-; jewel-bright  /jh uw1 el b r ay2 t/
+jewel-bright  /jh uw1 el b r ay2 t/
 jim  /jh ih1 m/
-; jim's  /jh ih1 m z/
+jim's  /jh ih1 m z/
 job  /jh aa1 b/
 jocular  /jh aa1 k y uh l axr/
 john  /jh aa1 n/
-; john's  /jh aa1 n z/
+john's  /jh aa1 n z/
 join  /jh oy1 n/
 joining  /jh oy1 n ix ng/
 joint  /jh oy1 n t/
@@ -2960,7 +2960,7 @@ juicy  /jh uw1 s iy/
 jump  /jh ah1 m p/
 jumped  /jh ah1 m p t/
 jungle  /jh ah1 ng g el/
-; jungle-like  /jh ah1 ng g el l ay2 k/
+jungle-like  /jh ah1 ng g el l ay2 k/
 junior  /jh uw1 n y axr/
 just  /jh ah1 s t/
 justification  /jh ah2 s t ix f ax k ey1 sh ix n/
@@ -2976,7 +2976,7 @@ key  /k iy1/
 keys  /k iy1 z/
 kick  /k ih1 k/
 kid  /k ih1 d/
-; kid's  /k ih1 d z/
+kid's  /k ih1 d z/
 kidnappers  /k ih1 d n ae p er z/
 kids  /k ih1 d z/
 kill  /k ih1 l/
@@ -2995,7 +2995,7 @@ kneeling  /n iy1 l ix ng/
 knees  /n iy1 z/
 knew  /n uw1/
 ; knick-  /n ih1 k/
-; knick-knacks  /n ih1 k n ae2 k s/
+knick-knacks  /n ih1 k n ae2 k s/
 knife  /n ay1 f/
 knifelike  /n ay1 f l ay2 k/
 knit  /n ih1 t/
@@ -3017,16 +3017,16 @@ lackeys  /l ae1 k iy z/
 lactating  /l ae1 k t ey t ix ng/
 ; lad  /l ae1 d/
 ladder  /l ae1 d axr/
-; lady's  /l ey1 d iy z/
+lady's  /l ey1 d iy z/
 ladylike  /l ey1 d iy l ay2 k/
 lagoon  /l ax g uw1 n/
 laid  /l ey1 d/
 lake  /l ey1 k/
-; lamb's  /l ae1 m z/
+lamb's  /l ae1 m z/
 lamp  /l ae1 m p/
 lamps  /l ae1 m p s/
 land  /l ae1 n d/
-; land-based  /l ae1 n d b ey1 s t/
+land-based  /l ae1 n d b ey1 s t/
 landlord  /l ae1 n d l ao2 r d/
 landmarks  /l ae1 n d m aa2 r k s/
 language  /l ae1 ng g w ih jh/
@@ -3055,7 +3055,7 @@ laws  /l ao1 z/
 lawyer  /l ao1 y axr/
 lawyers  /l ao1 y axr z/
 lay  /l ey1/
-; lay-up  /l ey1 ah2 p/
+lay-up  /l ey1 ah2 p/
 layoffs  /l ey1 ao2 f s/
 lazy  /l ey1 z iy/
 lead  /l iy1 d/
@@ -3101,12 +3101,12 @@ let's  /l eh1 t s/
 letter  /l eh1 t axr/
 letters  /l eh1 t axr z/
 level  /l eh1 v el/
-; level's  /l eh1 v el z/
+level's  /l eh1 v el z/
 leveling  /l eh1 v el ix ng/
 levels  /l eh1 v el z/
 ; lewd  /l uw1 d/
 liberal  /l ih1 b er el/
-; liberal-led  /l ih1 b er el l eh1 d/
+liberal-led  /l ih1 b er el l eh1 d/
 liberals  /l ih1 b er el z/
 library  /l ay1 b r eh2 r iy/
 lid  /l ih1 d/
@@ -3172,9 +3172,9 @@ logs  /l ao1 g z/
 lone  /l ow1 n/
 loneliness  /l ow1 n l iy n ix s/
 long  /l ao1 ng/
-; long-overdue  /l ao1 ng ow2 v axr d uw1/
-; long-range  /l ao1 ng r ey1 n jh/
-; long-term  /l ao1 ng t er1 m/
+long-overdue  /l ao1 ng ow2 v axr d uw1/
+long-range  /l ao1 ng r ey1 n jh/
+long-term  /l ao1 ng t er1 m/
 longed  /l ao1 ng d/
 longer  /l ao1 ng g axr/
 longitudes  /l aa1 n jh ix t uw2 d z/
@@ -3184,7 +3184,7 @@ looking  /l uh1 k ix ng/
 looks  /l uh1 k s/
 looms  /l uw1 m z/
 loose  /l uw1 s/
-; lori's  /l ao1 r iy z/
+lori's  /l ao1 r iy z/
 lose  /l uw1 z/
 loss  /l ao1 s/
 losses  /l ao1 s ix z/
@@ -3231,7 +3231,7 @@ magnificently  /m ae2 g n ih1 f ix s ix n t l iy/
 magnified  /m ae1 g n ih f ay2 d/
 magpies  /m ae1 g p ay2 z/
 mahogany  /m ax hh aa1 g ix n iy/
-; maids'  /m ey1 d z/
+maids'  /m ey1 d z/
 mail  /m ey1 l/
 main  /m ey1 n/
 maintain  /m ey n t ey1 n/
@@ -3246,7 +3246,7 @@ malaria  /m ax l ae1 r iy ax/
 male  /m ey1 l/
 mammals  /m ae1 m el z/
 man  /m ae1 n/
-; man's  /m ae1 n z/
+man's  /m ae1 n z/
 manage  /m ae1 n ih jh/
 managed  /m ae1 n ih jh d/
 management  /m ae1 n ih jh m ax n t/
@@ -3262,12 +3262,12 @@ manufacturer  /m ae2 n y uw f ae1 k ch er axr/
 manufacturers  /m ae2 n y uw f ae1 k ch er axr z/
 manure  /m ax n uh1 axr/
 many  /m eh1 n iy/
-; many-bodied  /m eh1 n iy b aa1 d iy d/
+many-bodied  /m eh1 n iy b aa1 d iy d/
 map  /m ae1 p/
-; mare's  /m ae1 r z/
+mare's  /m ae1 r z/
 margaret  /m aa1 r g r ax t/
 marine  /m axr iy1 n/
-; marine's  /m axr iy1 n z/
+marine's  /m axr iy1 n z/
 mark  /m aa1 r k/
 marketing  /m aa1 r k ix t ix ng/
 markets  /m aa1 r k ix t s/
@@ -3286,7 +3286,7 @@ mass  /m ae1 s/
 massage  /m ax s aa1 zh/
 massive  /m ae1 s ih v/
 master  /m ae1 s t axr/
-; master's  /m ae1 s t axr z/
+master's  /m ae1 s t axr z/
 masterful  /m ae1 s t axr f uh l/
 matched  /m ae1 ch t/
 matching  /m ae1 ch ix ng/
@@ -3441,7 +3441,7 @@ monday  /m ah1 n d ey/
 money  /m ah1 n iy/
 monitored  /m aa1 n ix t axr d/
 monkey  /m ah1 ng k iy/
-; monkey-gland  /m ah1 ng k iy g l ae1 n d/
+monkey-gland  /m ah1 ng k iy g l ae1 n d/
 monopolize  /m ax n aa1 p ax l ay2 z/
 monstrous  /m aa1 n s t r ax s/
 month  /m ah1 n th/
@@ -3465,14 +3465,14 @@ mostly  /m ow1 s t l iy/
 motel  /m ow t eh1 l/
 moth  /m ao1 th/
 mother  /m ah1 dh axr/
-; mother's  /m ah1 dh axr z/
+mother's  /m ah1 dh axr z/
 mothers  /m ah1 dh axr z/
-; mothers-in-law  /m ah1 dh axr z ih n l ao2/
+mothers-in-law  /m ah1 dh axr z ih n l ao2/
 motioning  /m ow1 sh ix n ix ng/
 motivates  /m ow1 t ix v ey2 t s/
 motor  /m ow1 t axr/
 motorists  /m ow1 t axr ix s t s/
-; motorists'  /m ow1 t axr ix s t s/
+motorists'  /m ow1 t axr ix s t s/
 mount  /m aw1 n t/
 mountain  /m aw1 n t en/
 mountainside  /m aw1 n t en s ay2 d/
@@ -3529,8 +3529,8 @@ naked  /n ey1 k ix d/
 name  /n ey1 m/
 named  /n ey1 m d/
 names  /n ey1 m z/
-; nan's  /n ae1 n z/
-; nancy's  /n ae1 n ao iy z/
+nan's  /n ae1 n z/
+nancy's  /n ae1 n ao iy z/
 narrow  /n ae1 r ow/
 narrower  /n ae1 r ow axr/
 nasty  /n ae1 s t iy/
@@ -3541,7 +3541,7 @@ naturally  /n ae1 ch axr ax l iy/
 nature  /n ey1 ch axr/
 navigate  /n ae1 v ax g ey2 t/
 near  /n ih1 r/
-; near-at-hand  /n ih1 r ae t hh ae1 n d/
+near-at-hand  /n ih1 r ae t hh ae1 n d/
 nearby  /n ih2 r b ay1/
 nearer  /n ih1 r axr/
 nearest  /n ih1 r ix s t/
@@ -3558,7 +3558,7 @@ nectar  /n eh1 k t axr/
 need  /n iy1 d/
 needed  /n iy1 d ix d/
 needle  /n iy1 d el/
-; needle-sharp  /n iy1 d el sh aa1 r p/
+needle-sharp  /n iy1 d el sh aa1 r p/
 needlepoint  /n iy1 d el p oy2 n t/
 needless  /n iy1 d l ax s/
 needs  /n iy1 d z/
@@ -3571,7 +3571,7 @@ neoclassic  /n iy2 ow k l ae1 s ih k/
 nerves  /n er1 v z/
 nested  /n eh1 s t ix d/
 nevada  /n ax v ae1 d ax/
-; nevada's  /n ax v ae1 d ax z/
+nevada's  /n ax v ae1 d ax z/
 never  /n eh1 v axr/
 nevertheless  /n eh2 v axr dh ax l eh1 s/
 new  /n uw1/
@@ -3589,21 +3589,21 @@ nine  /n ay1 n/
 ; nip  /n ih1 p/
 no  /n ow1/
 nobody  /n ow1 b ah d iy/
-; nobody's  /n ow1 b ah d iy z/
+nobody's  /n ow1 b ah d iy z/
 nodded  /n aa1 d ix d/
 noise  /n oy1 z/
 noisy  /n oy1 z iy/
 ; non-  /n aa n/
-; non-contributory  /n aa2 n k ax n t r ih1 b y uw t ao2 r iy/
-; non-nonsense  /n aa1 n aa1 n s eh2 n s/
-; non-supervisory  /n aa2 n s uw2 p axr v ay1 z axr iy/
+non-contributory  /n aa2 n k ax n t r ih1 b y uw t ao2 r iy/
+non-nonsense  /n aa1 n aa1 n s eh2 n s/
+non-supervisory  /n aa2 n s uw2 p axr v ay1 z axr iy/
 none  /n ah1 n/
 nonprofit  /n aa1 n p r aa1 f ax t/
 nonsense  /n aa1 n s eh2 n s/
 nonsystematic  /n aa2 n s ih2 s t ax m ae1 t ix k/
 nor  /n ao1 r/
 nora  /n ao1 r ax/
-; nora's  /n ao1 r ax z/
+nora's  /n ao1 r ax z/
 normal  /n ao1 r m el/
 normally  /n ao1 r m el iy/
 norms  /n ao1 r m z/
@@ -3636,7 +3636,7 @@ number  /n ah1 m b axr/
 numbering  /n ah1 m b axr ix ng/
 numbness  /n ah1 m n ix s/
 numerous  /n uw1 m axr ax s/
-; nurses'  /n er1 s ix z/
+nurses'  /n er1 s ix z/
 nut  /n ah1 t/
 nutrients  /n uw1 t r iy ax n t s/
 nutrition  /n uw t r ih1 sh ix n/
@@ -3674,16 +3674,16 @@ occur  /ax k er1/
 occurred  /ax k er1 d/
 occurs  /ax k er1 z/
 ocean  /ow1 sh ix n/
-; ocean's  /ow1 sh ix n z/
+ocean's  /ow1 sh ix n z/
 oceanographic  /ow2 sh ix n ax g r ae1 f ih k/
 octillion  /aa k t ih1 l y ax n/
 odd  /aa1 d/
 odds  /aa1 d z/
-; odds-on  /aa1 d z ao1 n/
+odds-on  /aa1 d z ao1 n/
 odor  /ow1 d axr/
 of  /ax v/
 off  /ao1 f/
-; off-duty  /ao1 f d uw1 t iy/
+off-duty  /ao1 f d uw1 t iy/
 offensive  /ax f eh1 n s ih v/
 offer  /ao1 f axr/
 offered  /ao1 f axr d/
@@ -3698,13 +3698,13 @@ often  /ao1 f ax n/
 ogress  /ow1 g r eh s/
 ; oh  /ow1/
 oil  /oy1 l/
-; oil-field  /oy1 l f iy1 l d/
+oil-field  /oy1 l f iy1 l d/
 oils  /oy1 l z/
 oily  /oy1 l iy/
 ointment  /oy1 n t m ax n t/
 okay  /ow k ey1/
 old  /ow1 l d/
-; old-timers  /ow1 l d t ay1 m axr z/
+old-timers  /ow1 l d t ay1 m axr z/
 older  /ow1 l d axr/
 oldsters  /ow1 l d s t axr z/
 ; ole  /ow1 l/
@@ -3714,10 +3714,10 @@ omitting  /ow m ih1 t ix ng/
 on  /ao1 n/
 once  /w ah1 n s/
 one  /w ah1 n/
-; one's  /w ah1 n z/
-; one-half  /w ah1 n hh ae1 f/
-; one-o'clock  /w ah1 n ax k l aa1 k/
-; one-upmanship  /w ah2 n ah1 p m ax n sh ih2 p/
+one's  /w ah1 n z/
+one-half  /w ah1 n hh ae1 f/
+one-o'clock  /w ah1 n ax k l aa1 k/
+one-upmanship  /w ah2 n ah1 p m ax n sh ih2 p/
 ones  /w ah1 n z/
 onion  /ah1 n y ax n/
 only  /ow1 n l iy/
@@ -3762,13 +3762,13 @@ orthodontist  /ao2 r th ax d aa1 n t ih s t/
 other  /ah1 dh axr/
 others  /ah1 dh axr z/
 otherwise  /ah1 dh axr w ay2 z/
-; otto's  /aa1 t ow z/
+otto's  /aa1 t ow z/
 ought  /ao1 t/
 our  /aw1 r/
 ourselves  /aw r s eh1 l v z/
 out  /aw1 t/
-; out-moded  /aw2 t m ow1 d ix d/
-; out-of-doors  /aw1 t ax v d ao1 r z/
+out-moded  /aw2 t m ow1 d ix d/
+out-of-doors  /aw1 t ax v d ao1 r z/
 outage  /aw1 t ix jh/
 outcast  /aw1 t k ae2 s t/
 outcome  /aw1 t k ah2 m/
@@ -3858,7 +3858,7 @@ park  /p aa1 r k/
 parking  /p aa1 r k ix ng/
 parrots  /p ae1 r ax t s/
 part  /p aa1 r t/
-; part-time  /p aa1 r t ay1 m/
+part-time  /p aa1 r t ay1 m/
 parted  /p aa1 r t ix d/
 participant  /p aa r t ih1 s ax p ax n t/
 participants  /p aa r t ih1 s ax p ax n t s/
@@ -3883,7 +3883,7 @@ path  /p ae1 th/
 pathetic  /p ax th eh1 t ih k/
 pathological  /p ae2 th ax l aa1 jh ih k el/
 patient  /p ey1 sh ix n t/
-; patient's  /p ey1 sh ix n t s/
+patient's  /p ey1 sh ix n t s/
 patiently  /p ey1 sh ix n t l iy/
 patrons  /p ey1 t r ax n z/
 patsy  /p ae1 t s iy/
@@ -3918,7 +3918,7 @@ people  /p iy1 p el/
 pepper  /p eh1 p axr/
 peppered  /p eh1 p axr d/
 ; per  /p er1/
-; per-year  /p er y ih1 r/
+per-year  /p er y ih1 r/
 perception  /p axr s eh1 p sh ix n/
 perennial  /p axr eh1 n iy el/
 perfect  /p er1 f eh k t/
@@ -3958,7 +3958,7 @@ petty  /p eh1 t iy/
 pewter  /p y uw1 t axr/
 phase  /f ey1 z/
 phenomenon  /f ih n aa1 m ax n aa2 n/
-; phil's  /f ih1 l z/
+phil's  /f ih1 l z/
 phone  /f ow1 n/
 phones  /f ow1 n z/
 phony  /f ow1 n iy/
@@ -3989,12 +3989,12 @@ pilgrims  /p ih1 l g r ax m z/
 pill  /p ih1 l/
 pills  /p ih1 l z/
 pilots  /p ay1 l ax t s/
-; pilots'  /p ay1 l ax t s/
+pilots'  /p ay1 l ax t s/
 pine  /p ay1 n/
 pink  /p ih1 ng k/
 pins  /p ih1 n z/
 pint  /p ay1 n t/
-; pint-sized  /p ay1 n t s ay2 z d/ 
+pint-sized  /p ay1 n t s ay2 z d/ 
 pinto  /p ih1 n t ow2/
 pioneer  /p ay2 ax n ih1 r/
 piped  /p ay1 p t/
@@ -4066,7 +4066,7 @@ polyesters  /p aa2 l iy eh1 s t axr z/
 pompousness  /p aa1 m p ah s n ix s/
 pond  /p aa1 n d/
 pool  /p uw1 l/
-; pool-side  /p uw1 l s ay d/
+pool-side  /p uw1 l s ay d/
 pools  /p uw1 l z/
 poor  /p uh1 r/
 poorly  /p uh1 r l iy/
@@ -4089,7 +4089,7 @@ possibilities  /p aa2 s ix b ih1 l ix t iy z/
 possibility  /p aa2 s ix b ih1 l ix t iy/
 possible  /p aa1 s ix b el/
 post  /p ow1 s t/
-; post-attack  /p ow1 s t ax t ae1 k/
+post-attack  /p ow1 s t ax t ae1 k/
 postdate  /p ow2 s t d ey1 t/
 postponed  /p ow s t p ow1 n d/
 potatoes  /p ax t ey1 t ow z/
@@ -4172,7 +4172,7 @@ prison  /p r ih1 z en/
 prisoner  /p r ih1 z en axr/
 prisoners  /p r ih1 z en axr z/
 private  /p r ay1 v ax t/
-; private-eye  /p r ay1 v ax t ay1/
+private-eye  /p r ay1 v ax t ay1/
 privately  /p r ay1 v ax t l iy/
 privations  /p r ay2 v ey1 sh ix n z/
 prizes  /p r ay1 z ix z/
@@ -4277,7 +4277,7 @@ pursed  /p er1 s t/
 pursued  /p axr s uw1 d/
 pursuing  /p axr s uw1 ix ng/
 push  /p uh1 sh/
-; push-ups  /p uh1 sh ah2 p s/
+push-ups  /p uh1 sh ah2 p s/
 put  /p uh1 t/
 puzzlement  /p ah1 z el m ax n t/
 puzzling  /p ah1 z el ix ng/
@@ -4286,8 +4286,8 @@ quality  /k w aa1 l ix t iy/
 quarrel  /k w ao1 r el/
 quarrels  /k w ao1 r el z/
 quarter  /k w ao1 r t axr/
-; quarter-century-old  /k w ao1 r t axr s eh1 n ch axr iy ow1 l d/
-; quarter-inch  /k w ao1 r t axr ih1 n ch/
+quarter-century-old  /k w ao1 r t axr s eh1 n ch axr iy ow1 l d/
+quarter-inch  /k w ao1 r t axr ih1 n ch/
 quarters  /k w ao1 r t axr z/
 queen  /k w iy1 n/
 querulous  /k w eh1 r el ax s/
@@ -4305,7 +4305,7 @@ rabbits  /r ae1 b ix t s/
 rabies  /r ey1 b iy z/
 raccoons  /r ae k uw1 n z/
 race  /r ey1 s/
-; rachel's  /r ey1 ch el z/
+rachel's  /r ey1 ch el z/
 racing  /r ey1 s ix ng/
 ; rack  /r ae1 k/
 racy  /r ey1 s iy/
@@ -4401,7 +4401,7 @@ recriminations  /r ax k r ih2 m ih n ey1 sh ix n z/
 rector  /r eh1 k t axr/
 recuperating  /r ih k uw1 p axr ey2 t ix ng/
 red  /r eh1 d/
-; red-handed  /r eh1 d hh ae1 n d ix d/
+red-handed  /r eh1 d hh ae1 n d ix d/
 redcoats  /r eh1 d k ow2 t s/
 redecorating  /r iy d eh1 k er ey2 t ih ng/
 redeposition  /r iy2 d eh p ax z ih1 sh ix n/
@@ -4499,7 +4499,7 @@ residential  /r eh2 z ix d eh1 n ch el/
 resides  /r ih z ay1 d z/
 residues  /r eh1 z ix d uw2 z/
 resin  /r eh1 z ix n/
-; resin-saturated  /r eh1 z ix n s ae1 ch uh r ey t ix d/
+resin-saturated  /r eh1 z ix n s ae1 ch uh r ey t ix d/
 resistance  /r ih z ih1 s t ix n s/
 resolute  /r eh1 z ax l uw2 t/
 resolution  /r eh2 z ax l uw1 sh ix n/
@@ -4579,12 +4579,12 @@ roasts  /r ow1 s t s/
 rob  /r aa1 b/
 robin  /r aa1 b ix n/
 rock  /r aa1 k/
-; rock-and-roll  /r aa1 k ae n d r ow1 l/
+rock-and-roll  /r aa1 k ae n d r ow1 l/
 rockets  /r aa1 k ix t s/
 rocky  /r aa1 k iy/
 rode  /r ow1 d/
 rods  /r aa1 d z/
-; roger's  /r aa1 jh axr z/
+roger's  /r aa1 jh axr z/
 role  /r ow1 l/
 roleplaying  /r ow1 l p l ey2 ix ng/
 roles  /r ow1 l z/
@@ -4593,7 +4593,7 @@ rolled  /r ow1 l d/
 rolls  /r ow1 l z/
 romance  /r ow1 m ae2 n s/
 romantic  /r ow m ae1 n t ih k/
-; ron's  /r aa1 n z/
+ron's  /r aa1 n z/
 roof  /r uw1 f/
 roofs  /r uw1 f s/
 rooftree  /r uw1 f t r iy2/
@@ -4606,8 +4606,8 @@ rose  /r ow1 z/
 roses  /r ow1 z z/
 rosy  /r ow1 z iy/
 rough  /r ah1 f/
-; rough-tough  /r ah1 f t ah1 f/
-; roulette's  /r uw l eh1 t s/
+rough-tough  /r ah1 f t ah1 f/
+roulette's  /r uw l eh1 t s/
 routine  /r uw t iy1 n/
 routinely  /r uw t iy1 n l iy/
 rove  /r ow1 v/
@@ -4625,7 +4625,7 @@ ruled  /r uw1 l d/
 rules  /r uw1 l z/
 rumen  /r uw1 m ax n/
 run  /r ah1 n/
-; run-down  /r ah1 n d aw2 n/
+run-down  /r ah1 n d aw2 n/
 running  /r ah1 n ix ng/
 runs  /r ah1 n z/
 rural  /r uh1 r el/
@@ -4707,7 +4707,7 @@ score  /s k ao1 r/
 scored  /s k ao1 r d/
 scour  /s k aw1 r/
 scouring  /s k aw1 r ix ng/
-; scout's  /s k aw1 t s/
+scout's  /s k aw1 t s/
 scowled  /s k aw1 el d/
 scraping  /s k r ey1 p ix ng/
 scratch  /s k r ae1 ch/
@@ -4755,14 +4755,14 @@ selection  /s ax l eh1 k sh ix n/
 selections  /s ax l eh1 k sh ix n z/
 selective  /s ax l eh1 k t ih v/
 self  /s eh1 l f/
-; self's  /s eh1 l f s/
-; self-confident  /s eh2 l f k aa1 n f ih d ix n t/
-; self-contained  /s eh2 l f k ax n t ey1 n d/
-; self-deceiving  /s eh2 l f d ih s iy1 v ix ng/
-; self-sufficiency  /s eh1 l f s ax f ih1 sh ix n s iy/
+self's  /s eh1 l f s/
+self-confident  /s eh2 l f k aa1 n f ih d ix n t/
+self-contained  /s eh2 l f k ax n t ey1 n d/
+self-deceiving  /s eh2 l f d ih s iy1 v ix ng/
+self-sufficiency  /s eh1 l f s ax f ih1 sh ix n s iy/
 seller  /s eh1 l axr/
 ; semi-  /s eh1 m ih/
-; semi-heights  /s eh2 m ih hh ay1 t s/
+semi-heights  /s eh2 m ih hh ay1 t s/
 semidrying  /s eh2 m ih d r ay1 ix ng/
 senate  /s eh1 n ix t/
 send  /s eh1 n d/
@@ -4779,7 +4779,7 @@ separate~v  /s eh1 p axr ey2 t/
 sequoia  /s ih k w oy1 ax/
 series  /s ih1 r iy2 z/
 sermon  /s er1 m ax n/
-; serpent's  /s er1 p ax n t s/
+serpent's  /s er1 p ax n t s/
 serve  /s er1 v/
 served  /s er1 v d/
 serves  /s er1 v z/
@@ -4842,13 +4842,13 @@ shelters  /sh eh1 l t axr z/
 shelves  /sh eh1 l v z/
 sherbet  /sh er1 b ix t/
 sheriff  /sh eh1 r ix f/
-; sheriff's  /sh eh1 r ix f s/
+sheriff's  /sh eh1 r ix f s/
 shielding  /sh iy1 l d ix ng/
 shimmered  /sh ih1 m axr d/
 shimmering  /sh ih1 m axr ix ng/
 shimmers  /sh ih1 m axr z/
 ship  /sh ih1 p/
-; ship's  /sh ih1 p s/
+ship's  /sh ih1 p s/
 shipbuilding  /sh ih1 p b ih2 l d ix ng/
 shipmate  /sh ih1 p m ey2 t/
 ships  /sh ih1 p s/
@@ -4932,9 +4932,9 @@ sincere  /s ix n s ih1 r/
 sincerity  /s ix n s eh1 r ix t iy/ 
 sinewy  /s ih1 n y uw iy/
 sing  /s ih1 ng/
-; singer's  /s ih1 ng g axr z/
+singer's  /s ih1 ng g axr z/
 single  /s ih1 ng g el/
-; single-handed  /s ih2 ng g el hh ae1 n d ix d/
+single-handed  /s ih2 ng g el hh ae1 n d ix d/
 singular  /s ih1 ng g y uh l axr/
 sinuous  /s ih1 n y uw ix s/
 sinus  /s ay1 n ix s/
@@ -4947,7 +4947,7 @@ situation  /s ih2 ch uw ey1 sh ix n/
 situations  /s ih2 ch uw ey1 sh ix n z/
 six  /s ih1 k s/
 sixty  /s ih1 k s t iy/
-; sixty-five  /s ih1 k s t iy f ay1 v/
+sixty-five  /s ih1 k s t iy f ay1 v/
 size  /s ay1 z/
 sized  /s ay1 z d/
 sizzled  /s ih1 z el d/
@@ -5015,7 +5015,7 @@ smooth  /s m uw1 dh/
 smoothed  /s m uw1 dh d/
 smothered  /s m ah1 dh axr d/
 snake  /s n ey1 k/
-; snake-rail  /s n ey1 k r ey1 l/
+snake-rail  /s n ey1 k r ey1 l/
 snakes  /s n ey1 k s/
 snapper  /s n ae1 p axr/
 snapping  /s n ae1 p ix ng/
@@ -5026,7 +5026,7 @@ snips  /s n ih1 p s/
 snow  /s n ow1/
 snowed  /s n ow1 d/
 so  /s ow1/
-; so-called  /s ow1 k ao1 l d/
+so-called  /s ow1 k ao1 l d/
 soak  /s ow1 k/
 soaked  /s ow1 k t/
 sober  /s ow1 b axr/
@@ -5044,7 +5044,7 @@ soldiering  /s ow1 l jh axr ix ng/
 soldiers  /s ow1 l jh axr z/
 solicits  /s ax l ih1 s ix t s/
 solid  /s aa1 l ix d/
-; solid-state  /s aa1 l ix d s t ey1 t/
+solid-state  /s aa1 l ix d s t ey1 t/
 solidarity  /s aa2 l ax d ae1 r ax t iy/
 solitary  /s aa1 l ix t eh2 r iy/
 solitude  /s aa1 l ix t uw2 d/
@@ -5106,7 +5106,7 @@ species  /s p iy1 sh iy2 z/
 specific  /s p ax s ih1 f ih k/
 spectacular  /s p eh k t ae1 k y uh l axr/
 spectator  /s p eh1 k t ey2 t axr/
-; spectator-type  /s p eh1 k t ey t axr t ay1 p/
+spectator-type  /s p eh1 k t ey t axr t ay1 p/
 speculated  /s p eh1 k y uh l ey2 t ix d/
 speculations  /s p eh2 k y uh l ey1 sh ix n z/
 speech  /s p iy1 ch/
@@ -5171,7 +5171,7 @@ stag  /s t ae1 g/
 stage  /s t ey1 jh/
 staggered  /s t ae1 g axr d/
 stake  /s t ey1 k/
-; stake-out  /s t ey1 k aw1 t/
+stake-out  /s t ey1 k aw1 t/
 stampede  /s t ae2 m p iy1 d/
 stand  /s t ae1 n d/
 standardized  /s t ae1 n d axr d ay2 z d/
@@ -5215,7 +5215,7 @@ stings  /s t ih1 ng z/
 stirred  /s t er1 d/
 stirrin  /s t er1 en/
 stirrup  /s t er1 ah p/
-; stirrup-guard  /s t er1 ah p g aa1 r d/
+stirrup-guard  /s t er1 ah p g aa1 r d/
 stock  /s t aa1 k/
 stockings  /s t aa1 k ix ng z/
 stockroom  /s t aa1 k r uw2 m/
@@ -5280,7 +5280,7 @@ struggle  /s t r ah1 g el/
 struggling  /s t r ah1 g el ix ng/
 stuck  /s t ah1 k/
 students  /s t uw1 d en t s/
-; students'  /s t uw1 d en t s/
+students'  /s t uw1 d en t s/
 studio  /s t uw1 d iy ow2/
 study  /s t ah1 d iy/
 stumping  /s t ah1 m p ix ng/
@@ -5355,7 +5355,7 @@ supports  /s ax p ao1 r t s/
 suppose  /s ax p ow1 z/
 supreme  /s ax p r iy1 m/
 sure  /sh uh1 r/
-; sure-sure  /sh uh1 r sh uh1 r/
+sure-sure  /sh uh1 r sh uh1 r/
 surely  /sh uh1 r l iy/
 surface  /s er1 f ax s/
 surfaceness  /s er1 f ax s n ix s/
@@ -5384,7 +5384,7 @@ sweater  /s w eh1 t axr/
 sweaters  /s w eh1 t axr z/
 swedish  /s w iy1 d ih sh/
 sweet  /s w iy1 t/
-; sweet-sour  /s w iy1 t s aw1 axr/
+sweet-sour  /s w iy1 t s aw1 axr/
 sweetheart  /s w iy1 t hh aa2 r t/
 sweetly  /s w iy1 t l iy/
 swells  /s w eh1 l z/
@@ -5449,7 +5449,7 @@ tasteful  /t ey1 s t f uh l/
 tastes  /t ey1 s t s/
 ; taut  /t ao1 t/
 tax  /t ae1 k s/
-; tax-aided  /t ae1 k s ey1 d ix d/
+tax-aided  /t ae1 k s ey1 d ix d/
 taxation  /t ae k s ey1 sh ix n/
 taxi  /t ae1 k s iy/
 taxicab  /t ae1 k s iy k ae2 b/
@@ -5482,7 +5482,7 @@ temptations  /t eh m p t ey1 sh ix n z/
 tempted  /t eh1 m p t ix d/
 ten  /t eh1 n/
 tenant  /t eh1 n ix n t/
-; tenant's  /t eh1 n ix n t s/
+tenant's  /t eh1 n ix n t s/
 tend  /t eh1 n d/
 tended  /t eh1 n d ix d/
 tenderness  /t eh1 n d axr n ix s/
@@ -5498,14 +5498,14 @@ terrier  /t eh1 r iy axr/
 terrific  /t axr ih1 f ih k/
 terrifying  /t eh1 r ax f ay2 ix ng/
 test  /t eh1 s t/
-; test-run  /t eh1 s t r ah1 n/
+test-run  /t eh1 s t r ah1 n/
 testicle  /t eh1 s t ih k el/
 testimony  /t eh1 s t ix m ow2 n iy/
 tests  /t eh1 s t s/
 tetanus  /t eh1 t n ix s/
 tethered  /t eh1 dh axr d/
 text  /t eh1 k s t/
-; text-form  /t eh1 k s t f ao1 r m/
+text-form  /t eh1 k s t f ao1 r m/
 texts  /t eh1 k s t s/
 texture  /t eh1 k s ch axr/
 than  /dh ae1 n/
@@ -5559,7 +5559,7 @@ thinks  /th ih1 ng k s/
 thinner  /th ih1 n axr/
 third  /th er1 d/
 thirty  /th er1 t iy/
-; thirty-five  /th er1 t iy f ay1 v/
+thirty-five  /th er1 t iy f ay1 v/
 this  /dh ih1 s/
 thomas  /t aa1 m ix s/
 thoroughbred  /th er1 ow b r eh2 d/
@@ -5574,7 +5574,7 @@ thousand  /th aw1 z en d/
 thread  /th r eh1 d/
 threatening  /th r eh1 t en ix ng/
 three  /th r iy1/
-; three-inch  /th r iy1 ih1 n ch/
+three-inch  /th r iy1 ih1 n ch/
 threw  /th r uw1/
 thrill  /th r ih1 l/
 thrived  /th r ay1 v d/
@@ -5587,7 +5587,7 @@ thrower  /th r ow1 axr/
 thrusting  /th r ah1 s t ix ng/
 thruway  /th r uw1 w ey2/
 thump  /th ah1 m p/
-; thursday's  /th er1 z d ey z/
+thursday's  /th er1 z d ey z/
 thursdays  /th er1 z d ey z/
 thus  /dh ah1 s/
 thwarted  /th w ao1 r t ix d/
@@ -5619,8 +5619,8 @@ to  /t uw1/
 toast  /t ow1 s t/
 tobacco  /t ax b ae1 k ow2/
 today  /t ix d ey1/
-; today'll  /t ix d ey1 el/
-; today's  /t ix d ey1 z/
+today'll  /t ix d ey1 el/
+today's  /t ix d ey1 z/
 todd  /t aa1 d/
 toddler  /t aa1 d l axr/
 toe  /t ow1/
@@ -5637,7 +5637,7 @@ tombstones  /t uw1 m s t ow2 n z/
 tomorrow  /t ax m aa1 r ow2/
 tongue  /t ah1 ng/
 too  /t uw1/
-; too-naked  /t uw1 n ey1 k ix d/
+too-naked  /t uw1 n ey1 k ix d/
 took  /t uh1 k/
 tool  /t uw1 l/
 tooth  /t uw1 th/
@@ -5702,7 +5702,7 @@ trembled  /t r eh1 m b el d/
 tremor  /t r eh1 m axr/
 tremulously  /t r eh1 m y uh l ax s l iy/
 trend  /t r eh1 n d/
-; trend-following  /t r eh1 n d f aa2 l ow ix ng/
+trend-following  /t r eh1 n d f aa2 l ow ix ng/
 trends  /t r eh1 n d z/
 trespassing  /t r eh1 s p ae s ix ng/
 trial  /t r ay1 el/
@@ -5751,10 +5751,10 @@ tweezers  /t w iy1 z axr z/
 twelfth  /t w eh1 l f th/
 twelve  /t w eh1 l v/
 twenty  /t w eh1 n t iy/
-; twenty-five  /t w eh1 n t iy f ay1 v/
-; twenty-nine  /t w eh1 n t iy n ay1 n/
-; twenty-three  /t w eh1 n t iy th r iy1/
-; twenty-two  /t w eh1 n t iy t uw1/
+twenty-five  /t w eh1 n t iy f ay1 v/
+twenty-nine  /t w eh1 n t iy n ay1 n/
+twenty-three  /t w eh1 n t iy th r iy1/
+twenty-two  /t w eh1 n t iy t uw1/
 twice  /t w ay1 s/
 twigged  /t w ih1 g d/
 twilight  /t w ay1 l ay2 t/
@@ -5791,7 +5791,7 @@ unconvincing  /ah2 n k ax n v ih1 n s ix ng/
 uncover  /ah2 n k ah1 v axr/
 undeniably  /ah2 n d iy n ay1 ax b l iy/
 under  /ah1 n d axr/
-; under-age  /ah2 n d axr ey1 jh/
+under-age  /ah2 n d axr ey1 jh/
 underbrush  /ah1 n d axr b r ah2 sh/
 underfoot  /ah2 n d axr f uh1 t/
 understand  /ah2 n d axr s t ae1 n d/
@@ -5813,7 +5813,7 @@ unfortunates  /ah n f ao1 r ch ix n ix t s/
 unhappy  /ah n hh ae1 p iy/
 unhurried  /ah n hh er1 iy d/
 ; uni-  /y uw1 n iy/
-; uni-directional  /y uw n iy d axr eh1 k sh ix n el/
+uni-directional  /y uw n iy d axr eh1 k sh ix n el/
 uniforms  /y uw1 n ix f ao2 r m z/
 uninterrupted  /ah2 n ih2 n t axr ah1 p t ix d/
 union  /y uw1 n y ix n/
@@ -5825,7 +5825,7 @@ unity  /y uw1 n ix t iy/
 universality  /y uw2 n ix v er s ae1 l ix t iy/
 universe  /y uw1 n ax v er2 s/
 university  /y uw2 n ix v er1 s ix t iy/
-; university-wide  /y uw1 n ix v er1 s ix t iy w ay1 d/
+university-wide  /y uw1 n ix v er1 s ix t iy w ay1 d/
 unjustified  /ah n jh ah1 s t ix f ay2 d/
 unknown  /ah2 n ow1 n/
 unless  /ax n l eh1 s/
@@ -5929,7 +5929,7 @@ verses  /v er1 s ix z/
 vertebral  /v er1 t ax b r el/
 vertigo  /v er1 t ih g ow2/
 very  /v eh1 r iy/
-; veterans'  /v eh1 t axr ax n z/
+veterans'  /v eh1 t axr ax n z/
 veterinarian  /v eh2 t axr ax n eh1 r iy ax n/
 vices  /v ay1 s ix z/
 victim  /v ih1 k t ax m/
@@ -5966,7 +5966,7 @@ visually  /v ih1 zh uw ax l iy/
 vital  /v ay1 t el/
 vitality  /v ay t ae1 l ix t iy/
 vitamin  /v ay1 t ax m ax n/
-; vitamin-and-iron  /v ay1 t ax m ax n ae n d ay1 axr n/
+vitamin-and-iron  /v ay1 t ax m ax n ae n d ay1 axr n/
 vivid  /v ih1 v ix d/
 vividly  /v ih1 v ix d l iy/
 vocabulary  /v ow k ae1 b y uh l eh2 r iy/
@@ -6026,7 +6026,7 @@ watches  /w aa1 ch ix z/
 water  /w ao1 t axr/
 waters  /w ao1 t axr z/
 wave  /w ey1 v/
-; wave-setting  /w ey1 v s eh1 t ix ng/
+wave-setting  /w ey1 v s eh1 t ix ng/
 waves  /w ey1 v z/
 wax  /w ae1 k s/
 waxing  /w ae1 k s ix ng/
@@ -6062,8 +6062,8 @@ welcome  /w eh1 l k ax m/
 welcomed  /w eh1 l k ax m d/
 welfare  /w eh1 l f ae2 r/
 well  /w eh1 l/
-; well-kept  /w eh1 l k eh1 p t/
-; well-made  /w eh1 l m ey1 d/
+well-kept  /w eh1 l k eh1 p t/
+well-made  /w eh1 l m ey1 d/
 went  /w eh1 n t/
 were  /w er/
 weren't  /w er en t/
@@ -6072,7 +6072,7 @@ wet  /w eh1 t/
 what  /hh w aa1 t/
 what're  /hh w aa1 t axr/
 what's  /hh w aa1 t s/
-; what's-his-name  /hh w aa1 t s hh ih z n ey2 m/
+what's-his-name  /hh w aa1 t s hh ih z n ey2 m/
 whatever  /hh w ax t eh1 v axr/
 whatsoever  /hh w aa2 t s ow eh1 v axr/
 wheat  /hh w iy1 t/
@@ -6133,7 +6133,7 @@ winking  /w ih1 ng k ix ng/
 winter  /w ih1 n t axr/
 wipe  /w ay1 p/
 wire  /w ay1 axr/
-; wire-haired  /w ay1 axr hh ae2 r d/
+wire-haired  /w ay1 axr hh ae2 r d/
 wired  /w ay1 axr d/
 wisdom  /w ih1 z d ax m/
 wise  /w ay1 z/
@@ -6177,7 +6177,7 @@ workers  /w er1 k axr z/
 working  /w er1 k ix ng/
 works  /w er1 k s/
 world  /w er1 l d/
-; world's  /w er1 l d z/
+world's  /w er1 l d z/
 worm  /w er1 m/
 worn  /w ao1 r n/
 worried  /w er1 iy d/
@@ -6201,8 +6201,8 @@ written  /r ih1 t en/
 wrong  /r ao1 ng/
 wrote  /r ow1 t/
 ; x  /eh1 k s/
-; x-ray  /eh1 k s r ey2/
-; y'all  /y ao1 l/
+x-ray  /eh1 k s r ey2/
+y'all  /y ao1 l/
 ; ya  /y ax/
 yacht  /y aa1 t/
 yard  /y aa1 r d/
@@ -6210,7 +6210,7 @@ yards  /y aa1 r d z/
 yarn  /y aa1 r n/
 yeah  /y eh1 ax/
 year  /y ih1 r/
-; year's  /y ih1 r z/
+year's  /y ih1 r z/
 yearly  /y ih1 r l iy/
 years  /y ih1 r z/
 yell  /y eh1 l/
@@ -6238,7 +6238,7 @@ zeal  /z iy1 l/
 zealous  /z eh1 l ax s/
 zebras  /z iy1 b r ax z/
 ; zig-  /z ih1 g/
-; zig-zagged  /z ih1 g z ae2 g d/
+zig-zagged  /z ih1 g z ae2 g d/
 zinnias  /z ih1 n iy ax z/
 zip  /z ih1 p/
 zippers  /z ih1 p axr z/
