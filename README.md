@@ -17,7 +17,7 @@ A modified version of TA's Lexicon_WFST
 
  To know the input file format, simply read "example.txt" or "example_runNBest.txt".
 
- Important: If timitdict is edited, remove lexicon/Lexicon.fst before running.
+ > Important: If timitdict is edited, remove lexicon/Lexicon.fst before running.
 
 ## Remarks
  the Makefile is not working now
