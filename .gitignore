@@ -1,0 +1,7 @@
+# lexicon models
+lexicon/Lexicon.fst
+lexicon/lexicon.39.txt
+lexicon/lexicon.txt
+lexicon/lexicon_disambig.txt
+lexicon/words.txt
+output/output.txt
