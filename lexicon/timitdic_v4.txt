@@ -5604,7 +5604,7 @@ time  /t ay1 m/
 timers  /t ay1 m axr z/
 times  /t ay1 m z/
 timing  /t ay1 m ix ng/
-tin  /t ih1 n/
+; tin  /t ih1 n/
 tinder  /t ih1 n d axr/
 tinkled  /t ih1 ng k el d/
 tinsel  /t ih1 n s el/

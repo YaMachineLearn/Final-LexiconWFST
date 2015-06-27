@@ -97,26 +97,30 @@ tempLine=$tmpdir/tempLine.txt
 
 while read line;
 do
-   echo $nbest >> $output
+   if [[ $line =~ ^[0-9]+$ ]]; then
+      echo $line >> $output
+   else
+      # echo $nbest >> $output
 
-   echo $line > $tempLine
-   ./$BIN/generate $tempLine $LEX/phones.60-39.map $rule > $tmpdir/input.log
-   
-   fstcompile --isymbols=$LEX/phones_disambig.txt --osymbols=$LEX/phones_disambig.txt $tmpdir/input.log | \
-      fstarcsort --sort_type=olabel > $tmpdir/input.fst
+      echo $line > $tempLine
+      ./$BIN/generate $tempLine $LEX/phones.60-39.map $rule > $tmpdir/input.log
+      
+      fstcompile --isymbols=$LEX/phones_disambig.txt --osymbols=$LEX/phones_disambig.txt $tmpdir/input.log | \
+         fstarcsort --sort_type=olabel > $tmpdir/input.fst
 
-   command="fstcompose $tmpdir/input.fst $LEX/Lexicon.fst | \
-      fstshortestpath --nshortest=$nbest | \
-      ./fstprintallpath - $LEX/words.txt  "
-   command+=" | sed "
-   command+=" -e 's/<s>//g' -e 's/<\/s>//g' -e 's/SIL//g' "
-   command+=" | sed -e \"s:':COMMA:g\" | sed "
-   command+=$(while read phone; do echo " -e 's/\b${phone}\b/ /g'"; done < $LEX/phone_list)
-   command+=" | sed -e \"s:COMMA:':g\" "
-   command+=" | tr -s ' ' | sed -e 's/^ //g' | sort | uniq"
-   command+=" >> $output"
+      command="fstcompose $tmpdir/input.fst $LEX/Lexicon.fst | \
+         fstshortestpath --nshortest=$nbest | \
+         ./fstprintallpath - $LEX/words.txt  "
+      command+=" | sed "
+      command+=" -e 's/<s>//g' -e 's/<\/s>//g' -e 's/SIL//g' "
+      command+=" | sed -e \"s:':COMMA:g\" | sed "
+      command+=$(while read phone; do echo " -e 's/\b${phone}\b/ /g'"; done < $LEX/phone_list)
+      command+=" | sed -e \"s:COMMA:':g\" "
+      command+=" | tr -s ' ' | sed -e 's/^ //g' | sort | uniq"
+      command+=" >> $output"
 
-   eval $command
+      eval $command
+   fi
 
 done < $input
 
