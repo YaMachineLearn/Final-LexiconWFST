@@ -7,8 +7,15 @@ A modified version of TA's Lexicon_WFST
  - ./configure && make && sudo make install
  
 ## How to use
- ```./runLine.sh input/example 10```<br/>
+ ```./runLine.sh input/example.txt 10```
+
+ or
+ 
+ ```./runNBest.sh input/example_runNBest.txt 10```
+ 
  and the output will be output/output.txt
+
+ To know the input file format, simply read "example.txt" or "example_runNBest.txt".
 
 ## Remarks
  the Makefile is not working now
